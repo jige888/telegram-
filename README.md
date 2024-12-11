@@ -1,5 +1,5 @@
 # telegram-
-2025最新悄咪咪收集的100000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
+2025最新悄咪咪收集的100000+个Telegram群合集，附全网最有趣好用的机器人mmjieshao_bot
 群组 Group
 京豆
 jdShareCode:https://t.me/jdShareCode
